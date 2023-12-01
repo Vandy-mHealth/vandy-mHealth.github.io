@@ -10,8 +10,11 @@ header:
 
 # Principal Investigator
 
-**Tom**
+## Tom Scherr, PhD
+> <img src="/images/team/Tom-Scherr.png" style="display: block; margin: auto;" />
+> ![Alt text](Tom-Scherr.png "a title")
 > Placeholder
+
 
 # Postdocs
 
@@ -20,14 +23,18 @@ header:
 
 # Staff
 
-**Matt**
+## Matt Boisse
 > Placeholder
 
-**Austin**
+## Austin Hardcastle
 > Placeholder
 
 # Undergraduates
-> Team
+## Majji
+## Srinidhi
+## Jerry
+## Chloe
+## Chance
 
 # Lab Alums
 > Placeholder
