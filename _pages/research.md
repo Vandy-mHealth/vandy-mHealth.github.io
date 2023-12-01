@@ -7,27 +7,7 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My academic research falls into two main areas: understanding the influence of
-geography on actor behavior before, during, and after civil conflict, and
-developing new tools to improve the study of institutions (both formal and
-informal) in peace and conflict. One strand of research in this first area
-explores how the territories that ethnic groups inhabit shape rebel group
-formation and condition their relationship with the state. My interest in
-geography also informs projects on active conflicts including the targeting of
-UN peacekeepers by insurgent groups, civilian victimization after rebel
-territorial conquest, and communal violence in fragile settings.
-
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
-
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+The MHGH Lab has a demonstrated track record of success operating at the unique interface of mobile and global health software development. We have ongoing collaborations outside of the Chemistry Department at Vanderbilt (Biomedical Engineering, Computer Science, Data Science Institute, Medical Center, Institute for Global Health), as well as beyond campus (Columbia University, Lurie’s Children’s Hospital in Chicago, Oxford University, Leiden University Medical Center, the Kenya Medical Research Institute, the Macha Research Trust). Our full-stack mHealth applications have solved problems in infectious disease surveillance (e.g., malaria, HIV, COVID-19, schistosomiasis), global health logistics (e.g., personnel, resource, scheduling management), data science (e.g., creation of “data-rich” environments with data capture apps, large-scale structured and unstructured data analysis, machine learning and model development), and mobile health infrastructure. We have received research support from the National Science Foundation, the National Institutes of Health, the Tennessee Center for AIDS Research, the Burroughs Wellcome Fund, Amazon Web Services, and Google Cloud. Software from our lab has been deployed domestically in the US (Nashville, Baltimore, New York, Chicago) and globally (Kenya, Zambia, South Africa, Côte d’Ivoire, Brazil).
 
 <nbsp>
 
