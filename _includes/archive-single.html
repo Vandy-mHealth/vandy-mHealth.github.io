@@ -72,6 +72,35 @@
       {% if post.github %}
         <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
       {% endif %}
+      {% if post.undergrad %}
+        <i class="fas fa-fw fa-user-graduate zoom" style="color:#866D4B;" aria-hidden="true"></i>
+      {% endif %}
+      
+      <!-- Showing countries from list in post -->
+      {% if post.countries %}
+      {% for country in post.countries %}
+        {% if country == 'usa' %}
+          🇺🇸
+        {% elsif country == 'canada' %}
+         🇨🇦
+        {% elsif country == 'zambia' %}
+         🇿🇲
+        {% elsif country == 'kenya' %}
+          🇰🇪
+        {% elsif country == 'uk' %}
+          🇬🇧
+        {% elsif country == 'netherlands' %}
+          🇳🇱
+        {% elsif country == 'south africa' %}
+          🇿🇦
+        {% elsif country == 'brazil' %}
+          🇧🇷
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+      
+      <!-- TODO Add people -->
+      
       </p>
     {% elsif post.collection == 'posts' and post.date %}
       <p class="page__date"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>

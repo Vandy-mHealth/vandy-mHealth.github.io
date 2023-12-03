@@ -15,4 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<sup>*</sup> Equal authorship
+<hr>
+<sup>*</sup>: Equal authorship <br/>
+<i class="fas fa-fw fa-user-graduate zoom"  style="color:#866D4B;" aria-hidden="true"></i>: VU undergrad author <br/>
+🇺🇸: country affiliations of authors <br/>

@@ -60,6 +60,7 @@ header:
 *Undergraduate Researcher*\
 *Biological Sciences & Computer Science*\
 *c/o 2026*
+
 > Srinidhi is a sophomore at Vanderbilt, double majoring in Biological Sciences and Computer Science. In the MHGH lab, she works on UI/UX design and laboratory analysis of rapid diagnostic tests. Her long term career interests are in biomedical and healthcare informatics as well as medicine.
                               
 ## Jerry Chen
@@ -71,3 +72,13 @@ header:
 * Fiifi Godwell, Intern (2023)
 * Kelly Chen, MS Candidate (2021-2022)
 * Qiushi Yan, MS Candidate (2021-2022)
+
+# Friends of MHGH
+(These are some of the very talented people that we work with, outside of our core group!)
+* David Wright (VU Chemistry)
+* Natalie Robbins (VISR)
+* Rick Haselton (VU BME)
+* Maurice Odiere (KEMRI)
+* Govert van Dam (LUMC)
+* Goylette Chami (Oxford)
+* Rebecca Schnall (Columbia)
